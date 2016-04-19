@@ -3,7 +3,7 @@
 WARNING:: *This project is deprecated*. All sample projects for the Android Maven
 Plugin as of version 4.0.0-rc.1 are part of the actual plugin codebase and run as
 integration tests. They can be found in the src/it/projects folder at
-https://github.com/jayway/maven-android-plugin[https://github.com/jayway/maven-android-plugin].
+https://github.com/simpligility/android-maven-plugin[https://github.com/simpligility/android-maven-plugin].
 
 The following content is mostly historical information and reference:
 
@@ -11,9 +11,7 @@ The following content is mostly historical information and reference:
 
 This project includes a whole number of example projects that use the
 Android Maven Plugin available at
-http://code.google.com/p/maven-android-plugin[http://code.google.com/p/maven-android-plugin].
-and
-https://github.com/jayway/maven-android-plugin[https://github.com/jayway/maven-android-plugin].
+http://simpligility.github.io/android-maven-plugin/[http://simpligility.github.io/android-maven-plugin/].
 
 It serves as samples for users as well as a test cases for the ongoing
 development of the plugin.
@@ -22,7 +20,7 @@ Documentation can be found there as well as in README files in the folders
 of the different examples.
 
 To run all projects you will need the support library and other libraries from the
-SDK deployed to your Maven repository. Use the https://github.com/mosabua/maven-android-sdk-deployer[Maven Android SDK Deployer] to do that.
+SDK deployed to your Maven repository. Use the https://github.com/simpligility/maven-android-sdk-deployer[Maven Android SDK Deployer] to do that.
 
 === Versioning and Downloads
 
