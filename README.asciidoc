@@ -72,4 +72,4 @@ support4demos:: example applications using the support library
 
 tictactoe:: an example application from the gradle samples project
 from the Android SDK team converted to a Maven based build
-
+sample project
